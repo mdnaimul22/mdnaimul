@@ -6,10 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Naimul;Full+Stack+Developer;Evolution+Specialist;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  "<i>Building the future, one block at a time.</i>"
-</p>
-
 ---
 
 ### ⚡ Technical Evolution (⚆_⚆)
