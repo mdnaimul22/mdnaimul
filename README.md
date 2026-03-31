@@ -10,7 +10,7 @@
 
 ### 🏆 Achievement
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=mdnaimul22&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=mdnaimul22&theme=tokyonight&no-bg=true&margin-w=35&margin-h=20" alt="GitHub Trophies" />
 </p>
 
 ---
