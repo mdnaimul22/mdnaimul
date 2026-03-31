@@ -7,6 +7,19 @@
 </p>
 
 ---
+<p align="left">
+  ⭐ Open to collaboration • Let's build something extraordinary!
+</p>
+
+<div align="left">
+  <a href="mailto:engineer.naimul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdnaimul22/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
 ### ⚡ Technical Skill
 <div align="left">
   <a href="mailto:engineer.naimul@gmail.com">
@@ -60,17 +73,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimul22&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
----
 
-<p align="center">
-  ⭐ Open to collaboration • Let's build something extraordinary!
-</p>
-
-<div align="center">
-  <a href="mailto:engineer.naimul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mdnaimul22/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
