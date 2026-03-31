@@ -8,7 +8,7 @@
 
 ---
 
-## Open to collaboration
+### Open to collaboration
 
 <div align="left">
   <a href="mailto:engineer.naimul@gmail.com">
