@@ -8,7 +8,7 @@
 
 ---
 ### ⚡ Technical Skill
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,postgres,redis,nodejs,docker,aws,git,linux&perline=6" />
   </a>
