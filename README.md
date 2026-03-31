@@ -7,6 +7,12 @@
 </p>
 
 ---
+### ⚡ Technical Skill
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,postgres,redis,nodejs,docker,aws,git,linux&perline=6" />
+  </a>
+</p>
 
 ### 🏆 Achievement
 <p align="center">
@@ -15,22 +21,14 @@
 
 ---
 
-### ⚡ Technical Skill
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,postgres,redis,nodejs,docker,aws,git,linux&perline=6" />
-  </a>
-</p>
-
----
-
 ### 📊 System Diagnostics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimul22&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
 <div align="center">
   <table border="0">
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdnaimul22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+      </td>
+    </tr>
     <tr>
       <td width="50%" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api?username=mdnaimul22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
@@ -39,14 +37,11 @@
         <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=mdnaimul22&theme=tokyonight&hide_border=true" alt="GitHub Streak">
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdnaimul22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-      </td>
-    </tr>
   </table>
 </div>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnaimul22&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 ---
 
 <p align="center">
